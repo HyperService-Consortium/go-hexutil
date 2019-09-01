@@ -1,1 +1,1 @@
-module github.com/Myriad-Dreamin/go-hexutil
+module github.com/HyperService-Consortium/go-hexutil

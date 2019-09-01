@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Myriad-Dreamin/go-hexutil"
+	"github.com/HyperService-Consortium/go-hexutil"
 )
 
 type MyType [5]byte
